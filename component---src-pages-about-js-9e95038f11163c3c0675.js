@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_gastby_learning=self.webpackChunkmy_gastby_learning||[]).push([[432],{9434:function(e,t,n){n.r(t),n.d(t,{Head:function(){return l}});var a=n(6540),u=(n(4810),n(5005));const l=()=>{};t.default=()=>a.createElement(u.A,{pageTitle:"About"},a.createElement("p",null,"About Me"))}}]);
+//# sourceMappingURL=component---src-pages-about-js-9e95038f11163c3c0675.js.map
